@@ -40,6 +40,12 @@ rm -v “verbose”
 ln fichier1 fichier2 liens
 ln -s symboliue
 
+git:
+
+Cloner une repo github;
+git remote set-url origin git@github:OssanKASSEGNE/Essentials.git
+git pull origin master --allow-unrelated-histories
+git push -u origin master
 
 
 
