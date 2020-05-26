@@ -1,0 +1,28 @@
+Manipulation de fichiers (cat & less) Affichage de fichiers
+
+
+cat affiche tout le fichier en un seul coup
+        -n : avec numéro de lignes
+
+less affiche page par page
+
+head 
+tail -nf (f : followo)
+
+touch "Fichier bidon" espace entre “ “
+mkdir -p animaux/vertebres/chat
+cp -R animaux autresanimaux copie de dossier
+rm -v “verbose”
+ln fichier1 fichier2 liens
+ln -s symboliue
+
+
+
+
+
+
+
+
+
+
+

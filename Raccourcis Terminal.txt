@@ -1,0 +1,26 @@
+﻿Raccourcis Terminal Linux
+
+
+Liste : 
+espace = page suivante
+entrée = ligne suivante
+q = quitter
+
+ctrl + R :rechercher une commande tapée
+ctrl +A : début
+ctrl +E : fin
+ctrl +U : effacer ligne
+ctrl + W : effacer mot
+ctrl Y : coller ce qui vient d’être effacé.
+ctrl + D quitter root
+
+quelques commandes
+command -p 14
+du : taille sur le disque
+        -h taille en octet
+        -a all
+        -s regroupée
+
+
+
+

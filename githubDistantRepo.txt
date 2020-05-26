@@ -1,0 +1,15 @@
+git:
+
+
+
+Cloner une repo github;
+
+git remote set-url origin git@github:OssanKASSEGNE/Essentials.git
+
+git pull origin master --allow-unrelated-histories
+
+git merge origin origin/master
+
+... add and commit here...
+
+git push origin master

@@ -1,0 +1,16 @@
+PATH in LINUX
+
+
+shell cherche nos commandes dans ces lieux
+
+
+export PATH=$PATH:/chemin
+
+
+Permanent:
+
+
+ajouter la ligne dans ~/.profile ou bash_rc
+
+
+exécuter source ~/.profile
