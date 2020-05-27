@@ -1,13 +1,18 @@
 Manipulation de fichiers (cat & less) Affichage de fichiers
 
 
-cat affiche tout le fichier en un seul coup
+cat affiche tout le fichier en un seul coup (CAT : PETITS FICHIERS)
+
         -n : avec numéro de lignes
 
 less affiche page par page
 
 head 
-tail -nf (f : followo)
+tail -nf (f : follow)
+
+wc -lw : Compte le nombre de mots ou lignes du fichier(s) passé en
+	paramètre 
+	Si aucun fichier, fait le comptage sur l'entrée standard.
 
 touch "Fichier bidon" espace entre “ “
 mkdir -p animaux/vertebres/chat

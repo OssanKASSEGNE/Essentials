@@ -1,0 +1,17 @@
+CONTENU DES DIFFERENTS DOSSIERS DE LINUX
+
+bin : Program (exécutables suseptibles d'être utilisés par TOUT LE MONDE)
+
+boot : Fichiers nécessaires au DEMARRAGE DE LINUX
+
+dev  : PERIPHERIQUES
+
+etc  : fichiers de CONFIGURATION
+
+mnt/media : zone de MONTAGE, périphériques USB
+
+proc : Informations SYSTEME
+
+sbin : program SYSTEM
+
+

@@ -1,0 +1,5 @@
+INFORMATIONS SUR LES COMMANDES ET UTILISATEURS
+
+which command : connaitre emplacement d'une commande
+who		: connaître les utilisateurs
+

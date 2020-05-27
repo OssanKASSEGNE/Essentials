@@ -1,0 +1,18 @@
+bin : program que tous les utilisateurs peuvent utiliser
+
+sbin : program SYSTEM
+
+usr  : program installés par les utilisateurs
+
+etc  : fichiers de CONFIGURATION
+
+mnt/media : Zone de MONTAGE, périphériques USB
+
+dev : Périphériques
+
+boot : Périphériques nécessaires au lancement de LINUX
+
+proc : Informations SYSTEM
+
+var : Contient les variables LOG , traces écrites de ce qui s'est passé
+	sur l'ordi
